@@ -31,7 +31,6 @@ if cookieGood:
     username = cookieUsername
     password = cookiePassword
 
-
 print("Content-Type: text/html")
 if loginGood:
     # set cookie iff login info correct
